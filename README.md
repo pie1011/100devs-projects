@@ -1,3 +1,15 @@
+
+# Projects
+
+## Shay
+Projects for Shay Howe's [Learn to Code: HTML & CSS](https://learn.shayhowe.com/html-css/)
+
+- [styles-conference](/shay/styles-conference)
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/pie1011/100devs-projects/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
