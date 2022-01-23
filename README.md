@@ -4,7 +4,7 @@
 ## Shay
 Projects for Shay Howe's [Learn to Code: HTML & CSS](https://learn.shayhowe.com/html-css/)
 
-- [styles-conference](/shay/styles-conference)
+- [styles-conference](https://pie1011.github.io/100devs-projects/shay/styles-conference)
 
 
 
