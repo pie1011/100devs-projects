@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 902px;
+    height: 552px;
+    margin: 100px auto;
+}
+
+header {
+    height: 20%;
+    border: 1px solid gray;
+}
+
+section {
+    height: 60%;
+    border: 1px solid gray;
+    float: left;
+}
+
+.middle1, .middle3, .middle4 {
+    width: 20%;
+}
+
+.middle2 {
+    width: 40%;
+}
+
+footer {
+    height: 20%;
+    border: 1px solid gray;
+    clear: both;
+}
